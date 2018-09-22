@@ -21,7 +21,7 @@
 	</div>
 
 	<div id="content">
-	<h2>Контент</h2>
+	<h2>Кнтент</h2>
 	</div>
 
 	<div id="clear">
